@@ -64,6 +64,11 @@ section#img02{
     background-image: url('../imagens/rottweiler_1-2-800x450.jpg');
     background-size: cover;
 }
+h2{
+    text-align: center;
+    border:10px solid white;
+    
+}
 
 a{
     color: white;
